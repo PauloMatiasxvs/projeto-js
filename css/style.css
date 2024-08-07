@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "gupter" sans-serif;
+}
+
+body {
+    background: linear-gradient(180deg, rgb(62, 52, 173) 5%, #8dcdf0 100%);
+}
